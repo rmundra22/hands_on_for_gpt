@@ -3,5 +3,6 @@
 # Topics to cover
 
 1. GPT from scratch
-2. V-LLMs (ViT etc.)
-3. I-JEPA, V-JEPA, VL-JEPA
+2. LLMs as a chatbot
+3. V-LLMs (ViT etc.)
+4. I-JEPA, V-JEPA, VL-JEPA
